@@ -5,8 +5,6 @@ The purpose of this exercise is to both practice the use of various tools to cre
 The software itself is a simple python file that reproduces the simple 'hello world' that many programmers first learn to create. 
 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/OtlUhqP0Gto)
 
 # Development Environment
