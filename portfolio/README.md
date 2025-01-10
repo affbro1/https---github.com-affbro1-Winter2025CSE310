@@ -14,6 +14,6 @@ Python was used to create this code. No outside sources or AI were required to c
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Screen capture software: (https://screenrec.com/screen-recorder/)
 
 
