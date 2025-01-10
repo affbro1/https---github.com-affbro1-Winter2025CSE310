@@ -1,23 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The purpose of this exercise is to both practice the use of various tools to create and display code projects and ensure that they are in working condition for future projects. 
 
-{Provide a description of your software}
+The software itself is a simple python file that reproduces the simple 'hello world' that many programmers first learn to create. 
 
-{Describe your purpose for creating this software.}
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/OtlUhqP0Gto)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+Visual Studio code was used to create the single line of code. 
+Python was used to create this code. No outside sources or AI were required to create the line of code. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+
